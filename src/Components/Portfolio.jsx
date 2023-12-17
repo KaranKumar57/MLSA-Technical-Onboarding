@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/castle.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Beautiful castle Portfolio";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Github Profile",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my Github Profile where I store my all Projects of Programming.",
+    url: "https://github.com/KaranKumar57",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Othello Board Game",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is a Othello Board Game in Java with GUI.",
+    url: "https://github.com/KaranKumar57/Othello-Board-Game",
   },
   {
-    title: "My Resume Site",
+    title: "CODSOFT Internship Tasks",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is my CODSOFT Internship Repository where I stored my tasks Here.",
+    url: "https://github.com/KaranKumar57/CODSOFT",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Blogs",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Presenting you My blogs at Blogers.com.",
+    url: "https://todayswriters.blogspot.com/",
   },
 ];
 
